@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://gaurangnandaniya.github.io/csb-v0mml4/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://gaurangnandaniya.github.io/csb-v0mml4/static/js/main.96bcd65c.chunk.js",
+    "main.js.map": "https://gaurangnandaniya.github.io/csb-v0mml4/static/js/main.96bcd65c.chunk.js.map",
+    "runtime-main.js": "https://gaurangnandaniya.github.io/csb-v0mml4/static/js/runtime-main.16549f9c.js",
+    "runtime-main.js.map": "https://gaurangnandaniya.github.io/csb-v0mml4/static/js/runtime-main.16549f9c.js.map",
+    "static/js/2.6de049c5.chunk.js": "https://gaurangnandaniya.github.io/csb-v0mml4/static/js/2.6de049c5.chunk.js",
+    "static/js/2.6de049c5.chunk.js.map": "https://gaurangnandaniya.github.io/csb-v0mml4/static/js/2.6de049c5.chunk.js.map",
+    "index.html": "https://gaurangnandaniya.github.io/csb-v0mml4/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://gaurangnandaniya.github.io/csb-v0mml4/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.6de049c5.chunk.js.LICENSE.txt": "https://gaurangnandaniya.github.io/csb-v0mml4/static/js/2.6de049c5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16549f9c.js",
+    "static/js/2.6de049c5.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.96bcd65c.chunk.js"
+  ]
+}
